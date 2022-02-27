@@ -1,6 +1,6 @@
 ### Opa iae 👋
 
-- 🌱 I’m currently learning HTML, CSS, JS and PHP
-- 🤔 I’m looking for help with JS
-- 📫 How to reach me: Instagram @Vinescle
-- ⚡ Fun fact: I love playing games and my interest in programming came from there.
+- 🌱 Eu estou atualmente aprendendo HTML5, CSS3, PHP e JS
+- 🤔 Atualmente focando em JS
+- 📫 Meu instagram: @Vinescle
+- ⚡ Curiosidades: Eu amo jogos e minha vontade de programar veio daí!
